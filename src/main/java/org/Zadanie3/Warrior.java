@@ -1,4 +1,4 @@
-package org.example;
+package org.Zadanie3;
 
 public class Warrior extends Hero implements Castable, Restable {
   private final int armor;

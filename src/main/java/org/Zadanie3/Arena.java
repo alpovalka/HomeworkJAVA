@@ -1,4 +1,4 @@
-package org.example;
+package org.Zadanie3;
 
 public class Arena {
   private final Hero fighter1;

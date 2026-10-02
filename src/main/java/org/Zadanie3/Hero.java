@@ -1,4 +1,4 @@
-package org.example;
+package org.Zadanie3;
 
 public abstract class Hero {
   private static final int MIN_STAT_VALUE = 1;

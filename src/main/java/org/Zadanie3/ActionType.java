@@ -1,4 +1,4 @@
-package org.example;
+package org.Zadanie3;
 
 public enum ActionType {
   BASE_ATTACK("Базовая атака"), SPECIAL_SKILL("Особое умение"), REST("Отдых");
