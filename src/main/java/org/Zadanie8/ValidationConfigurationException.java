@@ -1,0 +1,11 @@
+package org.Zadanie8;
+
+public class ValidationConfigurationException extends RuntimeException {
+  public ValidationConfigurationException(String message) {
+    super(message);
+  }
+
+  public ValidationConfigurationException(String message, Throwable cause) {
+    super(message, cause);
+  }
+}
